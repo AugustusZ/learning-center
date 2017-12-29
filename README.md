@@ -6,3 +6,6 @@ This is the place where I keep track of what I have been learning ;)
 
 * 12/23/17
   * [GitBook](gitbook.md)
+* 12/29/17
+  * Created [Libraries](libraries.md)
+  * Created [Readlist](readlist.md)
