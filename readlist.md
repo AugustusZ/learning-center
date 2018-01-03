@@ -8,6 +8,7 @@ Using JavaScript within Chrome/FireFox
 
 ## Posts
 
+* https://reacttraining.com/react-router/web/example/route-config
 * https://css-tricks.com/the-critical-request/
 * https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572
 * https://developers.google.com/web/fundamentals/
