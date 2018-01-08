@@ -4,6 +4,14 @@
 
 Using JavaScript within Chrome/FireFox
 
+### [J, K, or How to choose keyboard shortcuts for web applications](https://medium.com/@sashika/j-k-or-how-to-choose-keyboard-shortcuts-for-web-applications-a7c3b7b408ee)
+
+1. Don’t override native browser (or OS) shortcuts.
+1. Support standard shortcuts that don’t contradict the previous rule, and use one or two letter shortcuts for other actions.
+1. Always have a consistent system.
+1. Pay maximum attention to discoverability.
+
+
 # To-read
 
 ## Posts
