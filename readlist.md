@@ -20,6 +20,9 @@ See how [Material Design](https://material.io/guidelines/style/typography.html) 
 
 ## Posts
 
+### Perf
+* https://www.cdn77.com/blog/web-performance-expert-insights-2018/
+
 ### async/await
 * https://javascript.info/async-await
 * https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
