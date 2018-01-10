@@ -11,6 +11,10 @@ Using JavaScript within Chrome/FireFox
 1. Always have a consistent system.
 1. Pay maximum attention to discoverability.
 
+### [Android SP vs DP](https://medium.com/@rayacevedo45/android-sp-vs-dp-ca50ad53162d)
+
+See how [Material Design](https://material.io/guidelines/style/typography.html) use `sp`.
+
 
 # To-read
 
