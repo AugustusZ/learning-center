@@ -20,6 +20,11 @@ The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencie
 
 Makes text fit perfectly.
 
+## [Docusaurus](https://docusaurus.io/)
+
+Easy to Maintain Open Source Documentation Websites
+
 # Reference
 
 * https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017
+
