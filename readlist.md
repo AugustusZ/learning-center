@@ -15,6 +15,10 @@ Using JavaScript within Chrome/FireFox
 
 See how [Material Design](https://material.io/guidelines/style/typography.html) use `sp`.
 
+### [Webpage tracking only using CSS (and no JS)](https://github.com/jbtronics/CrookedStyleSheets) 1/16/18
+
+* pro: no JavaSccript
+* con: performance (loading lots of content)
 
 # To-read
 
