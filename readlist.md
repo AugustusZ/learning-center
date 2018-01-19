@@ -41,6 +41,8 @@ See how [Material Design](https://material.io/guidelines/style/typography.html) 
 
 ### JavaScript
 * https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
+* https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87
+* https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
 ### Browser
 * https://css-tricks.com/the-critical-request/
