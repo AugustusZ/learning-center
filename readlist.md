@@ -30,6 +30,7 @@ See how [Material Design](https://material.io/guidelines/style/typography.html) 
 * https://www.cdn77.com/blog/web-performance-expert-insights-2018/
 
 ### async/await
+* https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
 * https://javascript.info/async-await
 * https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
