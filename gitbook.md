@@ -30,3 +30,4 @@ See more about [Directory Structure](https://toolchain.gitbook.com/structure.htm
 ## Note
 
 * [`.gitignore`](https://github.com/github/gitignore/blob/master/GitBook.gitignore) for GitBook repo
+* [Plugins](https://plugins.gitbook.com/browse) for gitbook

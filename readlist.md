@@ -22,39 +22,62 @@ See how [Material Design](https://material.io/guidelines/style/typography.html) 
 
 ### [Laws of UX](https://lawsofux.com/) 1/18/18
 
+### [setState takes a callback](https://medium.learnreact.com/setstate-takes-a-callback-1f71ad5d2296) 2/9/18
+
+### [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) 2/12/18
+
+### [fundamentals/performance/webpack/](https://developers.google.com/web/fundamentals/performance/webpack/) 2/12/18
+
+We need to config the webpack by ourselves if we want to adopt the tips mentioned.
+
+### [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) 2/12/18
+
+> Local state is fine.
+
 # To-read
 
 ## Posts
 
 ### Perf
+
 * https://www.cdn77.com/blog/web-performance-expert-insights-2018/
 
 ### async/await
+
 * https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
 * https://javascript.info/async-await
 * https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
 ### React
+
 * https://reacttraining.com/react-router/web/example/route-config
 * https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
 * https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba
 * https://css-tricks.com/react-router-4/
 
 ### JavaScript
+
 * https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
 * https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87
 * https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
 
 ### Browser
+
 * https://css-tricks.com/the-critical-request/
 * https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572
 * https://developers.google.com/web/fundamentals/
 
 ### Others
+
 * https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website
 * https://developers.google.com/web/updates/2017/04/headless-chrome
 * https://tutorialzine.com/2017/08/12-terminal-commands-every-web-developer-should-know
 
 ### Concepts
+
 * We also recommend to verify that the CDN you are using sets the `Access-Control-Allow-Origin: *` HTTP header: https://facebook.github.io/react/docs/installation.html
 * ARIA https://w3c.github.io/using-aria/
+
+### UI/UX
+
+* https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
