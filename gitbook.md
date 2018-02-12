@@ -27,6 +27,30 @@ Then (at least) edit following files to get started:
 
 See more about [Directory Structure](https://toolchain.gitbook.com/structure.html) and [Pages and Summary](https://toolchain.gitbook.com/pages.html) in its [doc](https://toolchain.gitbook.com/).
 
+## Plugins
+
+Browse the plugins [here](https://plugins.gitbook.com/browse) and copy-and-paste the name in `book.json`:
+
+```json
+{
+  "plugins": ["name-of-some-plugin", "name-of-another-plugin"]
+}
+```
+
+and then run
+
+```bash
+gitbook install
+```
+
+to install all plugins.
+
+Finally, run
+
+```bash
+gitbook serve
+```
+
 ## Note
 
 * [`.gitignore`](https://github.com/github/gitignore/blob/master/GitBook.gitignore) for GitBook repo
