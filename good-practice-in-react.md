@@ -22,3 +22,7 @@ So, "when it fits" is "when only a shallow comparison is enough."
 `React.PureComponent` only does `shouldComponentUpdate()` with a **shallow** comparison. This means if the porps objects or the state object are mutated, the component will not be re-rendered.
 
 There are some ways to do so and one of the quick ways is to use object spread syntax (over `Object.assign()`) to return a new object.
+
+For the same reason behind the scene, [avoid arrow functions and binds in render](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36), because each call of `render()` will pass a new reference of the same function definition, which
+
+> ... breaks performance optimizations like shouldComponentUpdate and PureComponent.
