@@ -34,6 +34,10 @@ We need to config the webpack by ourselves if we want to adopt the tips mentione
 
 > Local state is fine.
 
+### [React - Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
+
+In order to aviod reconciliation,
+
 # To-read
 
 ## Posts
