@@ -38,6 +38,13 @@ We need to config the webpack by ourselves if we want to adopt the tips mentione
 
 In order to aviod reconciliation,
 
+### [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) and its part 2 [Part 2: How to stop me harvesting credit card numbers and passwords from your site](https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9) 2/19/18
+
+That was a long reading. The gist is:
+
+* third-party libraries/packages could be poluted with malicious code
+* having CSP is important
+
 # To-read
 
 ## Posts
