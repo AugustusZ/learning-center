@@ -49,6 +49,8 @@ That was a long reading. The gist is:
 
 ## Posts
 
+* https://www.w3.org/International/techniques/authoring-html#direction
+
 ### Perf
 
 * https://www.cdn77.com/blog/web-performance-expert-insights-2018/
