@@ -51,12 +51,12 @@ A very good reading!
 
 1. Use color and weight to create hierarchy instead of size
 2. Don’t use grey text on colored backgrounds
-  1. Reduce the opacity of white text
-  2. Hand-pick a color that’s based on the background color
+   1. Reduce the opacity of white text
+   2. Hand-pick a color that’s based on the background color
 3. Offset your shadows
 4. Use fewer borders
-  1. Use a box shadow
-  2. Use two different background colors
+   1. Use a box shadow
+   2. Use two different background colors
 5. Don’t blow up icons that are meant to be small
 6. Use accent borders to add color to a bland design
 7. Not every button needs a background color
