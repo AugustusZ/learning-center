@@ -45,6 +45,22 @@ That was a long reading. The gist is:
 * third-party libraries/packages could be poluted with malicious code
 * having CSP is important
 
+### [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) 2/21/18
+
+A very good reading!
+
+1. Use color and weight to create hierarchy instead of size
+2. Don’t use grey text on colored backgrounds
+  1. Reduce the opacity of white text
+  2. Hand-pick a color that’s based on the background color
+3. Offset your shadows
+4. Use fewer borders
+  1. Use a box shadow
+  2. Use two different background colors
+5. Don’t blow up icons that are meant to be small
+6. Use accent borders to add color to a bland design
+7. Not every button needs a background color
+
 # To-read
 
 ## Posts
