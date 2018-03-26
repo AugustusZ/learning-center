@@ -83,6 +83,8 @@ A very good reading!
 * https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
 * https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba
 * https://css-tricks.com/react-router-4/
+* https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e
+* https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7
 
 ### JavaScript
 
@@ -101,6 +103,9 @@ A very good reading!
 * https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website
 * https://developers.google.com/web/updates/2017/04/headless-chrome
 * https://tutorialzine.com/2017/08/12-terminal-commands-every-web-developer-should-know
+* https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a
+* https://medium.com/@WaywardSpouse/dont-get-caught-up-in-a-code-framework-paradigm-8e2c0ca0c4d5
+* https://medium.com/@ameya_pandilwar/taking-the-first-step-towards-the-serverless-computing-82aa80c2aede
 
 ### Concepts
 
@@ -110,3 +115,4 @@ A very good reading!
 ### UI/UX
 
 * https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
+* https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f
